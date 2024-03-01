@@ -17,9 +17,6 @@ Opinion: interesting, even entertaining. An excellent paper, and very useful <br
 4. Sperry, R. W. (1943). Effect of 180 degree rotation of the retinal field on Visuomotor Coordination. Journal of Experimental Zoology, 92(3), 263–279. https://doi.org/10.1002/jez.1400920303 <br/>
 Description: newts' retinas were rotated 180 degrees. There were different experimental groups, but in general such details are not that essential (control group was blind). Briefly, their optokinetics was reversed, and remained the same during 4.5 months of observation. Meanwhile, control group managed to adapt, thanks to other perceptual systems (like olfactory and shit). There's also some info about morphological changes (their skin color), but it doesnt seem relevant to me. More detes in the article. <br/>
 Opinion: interesting that there was lack of plasticity. I wonder if there are any similar researches <br/>
-<br/>
-<br/>
-<br/>
 
 ## SNNs
 1. 
