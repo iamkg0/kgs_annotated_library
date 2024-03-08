@@ -19,9 +19,12 @@
 ``Opinion:`` <br/>
 
 ## SNNs
-1. ``Paper:`` <br/>
+1. ``Paper:`` Some paper i didnt manage to understand so i'll keep it up for later<br/>
 ``Description:`` <br/>
 ``Opinion:`` <br/>
+2. ``Paper:`` Diehl, P. U., & Cook, M. (2015). Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in Computational Neuroscience, 9. https://doi.org/10.3389/fncom.2015.00099 <br/>
+``Description:`` A nice snn model for image classification (MNIST) with inhibitory connections and different learning mechanisms. Might be useful to implement them myself. No code given, unfortunately <br/>
+``Opinion:`` A cool paper. It is also fairly easy to read. However, I find it questionable to validate models with multiple runs on text dataset. I think random seed is better to be set for better reproducibility and some other benchmarks used to estimate models (like running with different time windows or something idk)<br/>
 
 ## Event cams
 1. ``Paper:`` <br/>
