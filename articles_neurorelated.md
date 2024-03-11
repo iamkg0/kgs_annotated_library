@@ -23,8 +23,8 @@
 ``Description:`` <br/>
 ``Opinion:`` <br/>
 2. ``Paper:`` Diehl, P. U., & Cook, M. (2015). Unsupervised learning of digit recognition using spike-timing-dependent plasticity. Frontiers in Computational Neuroscience, 9. https://doi.org/10.3389/fncom.2015.00099 <br/>
-``Description:`` A nice snn model for image classification (MNIST) with inhibitory connections and different learning mechanisms. Might be useful to implement them myself. No code given, unfortunately <br/>
-``Opinion:`` A cool paper. It is also fairly easy to read. However, I find it questionable to validate models with multiple runs on text dataset. I think random seed is better to be set for better reproducibility and some other benchmarks used to estimate models (like running with different time windows or something idk)<br/>
+``Description:`` A nice snn model for image classification (MNIST) with inhibitory connections and different learning mechanisms. Might be useful to implement them myself. No code given, unfortunately. As well as that it lacks the interpretation of their own model - I need to check out their learning algorithm, it might not be as fancy as it looks <br/>
+``Opinion:`` In general, not a bad paper. It is also fairly easy to read. However, I find it questionable to validate models with multiple runs on text dataset. I think random seed is better to be set for better reproducibility and some other benchmarks used to estimate models (like running with different time windows or something idk). Also it should be noted that they give no interpretation on what happens on the level of single neuron<br/>
 
 ## Event cams
 1. ``Paper:`` <br/>

@@ -25,8 +25,8 @@ Purpose: image classification
 Pros: easy to read, different models, biologically plausible
 Cons: no code
 Methods used: SNN, STDP, MNIST
-Description: A nice snn model for image classification (MNIST) with inhibitory connections and different learning mechanisms. Might be useful to implement them myself. No code given, unfortunately
-Opinion: A cool paper. It is also fairly easy to read. However, I find it questionable to validate models with multiple runs on text dataset. I think random seed is better to be set for better reproducibility and some other benchmarks used to estimate models (like running with different time windows or something idk)
+Description: A nice snn model for image classification (MNIST) with inhibitory connections and different learning mechanisms. Might be useful to implement them myself. No code given, unfortunately. As well as that it lacks the interpretation of their own model - I need to check out their learning algorithm, it might not be as fancy as it looks
+Opinion: In general, not a bad paper. It is also fairly easy to read. However, I find it questionable to validate models with multiple runs on text dataset. I think random seed is better to be set for better reproducibility and some other benchmarks used to estimate models (like running with different time windows or something idk). Also it should be noted that they give no interpretation on what happens on the level of single neuron
 #
 Authors: ...
 Year: ...
